@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('Cloning my git hub repo') {
       steps {
-        echo 'It's already cloned'
+        echo 'It is already cloned'
       }
     }
 
